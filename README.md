@@ -17,9 +17,9 @@
   <a href="https://leetcode.com/u/yordanos_l/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
   </a>
-  <a href="https://www.topcoder.com/members/1000" target="_blank">
+  <!-- <a href="https://www.topcoder.com/members/1000" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" width="40"/>
-  </a>
+  </a> -->
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
